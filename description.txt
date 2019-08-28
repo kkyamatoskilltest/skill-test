@@ -1,0 +1,12 @@
+使用した言語: Python3
+TSVデータの入出力方法: コマンドライン引数でファイル名を指定
+
+実行コマンドの説明では入力ファイル名を'input_file.tsv'、出力ファイル名を'output_file.tsv'とする。
+
+・スキルテスト1
+プログラムファイル名: test1.py
+実行コマンド: $ python test1.py input_file.tsv output_file.tsv
+
+・スキルテスト2
+プログラムファイル名: test2.py
+実行コマンド: $ python test2.py input_file.tsv output_file.tsv
